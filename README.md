@@ -1,5 +1,6 @@
-### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvelsaputra&hide=html,css,javascript&theme=merko" align="right"/>
+### Hi there 👋
+
 <h1>Junior Web Developer</h1>
 
 <!--
