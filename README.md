@@ -1,5 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvelsaputra&hide=html,css,javascript&theme=merko" align="right"/>
-### Hi there 👋
+Hello World 👋
+Nice to meet you, my name is Carvel Saputra.
 
 <h1>Junior Web Developer</h1>
 
