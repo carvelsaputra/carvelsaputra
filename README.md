@@ -2,7 +2,6 @@
 Hi There 👋
 
 
-<h1>Junior Web Developer</h1>
 
 <!--
 **carvelsaputra/carvelsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
