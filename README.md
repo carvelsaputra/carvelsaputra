@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvelsaputra&hide=html,css,javascript&theme=merko" align="right"/>
 Hi There 👋
+Im Carvel Saputra, you can call me carvel.
+nice to meet you :)
 
 
 
