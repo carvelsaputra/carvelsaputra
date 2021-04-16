@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvelsaputra&hide=html,css,javascript&theme=merko" align="right"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carvelsaputra&theme=vue&hide_border=true"></img>
+
 hello 👋 
 Im Carvel Saputra Martaloho, you can call me Carvel.
 <br>
