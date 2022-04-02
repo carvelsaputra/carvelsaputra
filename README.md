@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carvelsaputra&theme=vue&hide_border=true"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=carvelsaputra&show_icons=true&theme=dracula" alt="Carvel Saputra Github Stats">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=carvelsaputra&color=F4A4B5&style=flat" alt="carvelsaputra" />
 </div>
