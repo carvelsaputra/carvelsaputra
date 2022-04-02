@@ -12,7 +12,10 @@ Im Carvel Saputra Martaloho, you can call me Carvel.
 A person who loves learn, and build wonderful things. 
 
 ## 💻 Stacks Experiences
-My Tech stacks is  in Vue.Js, Nuxt.Js, Node.Js, Express.Js, MongoDB, MySQL
+- Vue.Js, Nuxt.Js
+- Node.Js, Express.Js
+- MongoDB, MySQL
+- Netlify, Vercel
 
 ## :briefcase: Career
 Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusualdope.com/)
