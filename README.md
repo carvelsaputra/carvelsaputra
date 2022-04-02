@@ -1,5 +1,10 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carvelsaputra&theme=vue&hide_border=true"></img>
 
+<div align="center">
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=carvelsaputra&theme=vue&hide_border=true"></img>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=carvelsaputra&color=F4A4B5&style=flat" alt="carvelsaputra" />
+</div>
+<br>
 hello 👋 
 Im Carvel Saputra Martaloho, you can call me Carvel.
 <br>
@@ -7,19 +12,19 @@ Im Carvel Saputra Martaloho, you can call me Carvel.
 💬 About me
 <br>
 A person who loves learn, and build wonderful things. 
-<br>
+<br><br>
 💻 Stacks Experiences
 <br>
 My Tech stacks is  in Vue.Js, Nuxt.Js, Node.Js, Express.Js, MongoDB, MySQL
-<br>
+<br><br>
 :briefcase: Career
 <br>
 Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusualdope.com/)
-<br>
+<br><br>
 🔍 Currently Learning
 <br>
 In my leisure time, I enjoy scratching frontend stuff, and UI/UX Design guideline
-<br>
+<br><br>
 📫 How to reach me:
 <br>
 - Web: [carvel.id](https://carvel.id)
