@@ -4,12 +4,20 @@ hello 👋
 Im Carvel Saputra Martaloho, you can call me Carvel.
 <br>
 <br>
-💬 About me ...
+💬 About me
 <br>
-A person who interested with javascript and try to implement my knowledge to elevate the future. 
+A person who loves learn, and build wonderful things. 
 <br>
-:briefcase: Work<br />
-I'm currently working at [**UnusualDope**](https://unusualdope.com/)
+💻 Stacks Experiences
+My Tech stacks is  in Vue.Js, Nuxt.Js, Node.Js, Express.Js, MongoDB, MySQL
+<br>
+:briefcase: Career
+Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusualdope.com/)
+<br>
+🔍 Currently Learning
+<br>
+In my leisure time, I enjoy scratching frontend stuff, and UI/UX Design guideline
+
 
 
 <!--
