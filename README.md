@@ -7,7 +7,9 @@ Im Carvel Saputra Martaloho, you can call me Carvel.
 💬 About me ...
 <br>
 A person who interested with javascript and try to implement my knowledge to elevate the future. 
-
+<br>
+:briefcase: Work<br />
+I'm currently working at [**UnusualDope**](https://unusualdope.com/)
 
 
 <!--
