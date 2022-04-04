@@ -8,28 +8,19 @@
 Hello 👋 
 Im Carvel Saputra Martaloho, you can call me Carvel.
 
-## 💬 About me 
+<br>💬 About me 
+<br>
 A person who loves learn, and build wonderful things. 
-
-## 💻 Stacks Experiences
-- Vue.Js, Nuxt.Js
-- Node.Js, Express.Js
-- MongoDB, MySQL
-- Netlify, Vercel
-
-## :briefcase: Career
+<br>
+<br>
+:briefcase: Career
+<br>
 Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusualdope.com/)
-
-## 🔍 Currently Learning
-
+<br>
+🔍 Currently Learning
+<br>
 In my leisure time, I enjoy scratching frontend stuff, and UI/UX Design guideline
 
-## 📫 How to reach me:
-* Web: [carvel.id](https://carvel.id)
-* Email: [hi@carvel.id](mailto:hi@carvel.id)
-* LinkedIn: [carvels](https://www.linkedin.com/in/carvels/)
-* Instagram: [@carvelsaputra](https://instagram.com/carvelsaputra)
-* Telegram: [@carvelsaputra](https://t.me/carvelsaputra)
 
 <!--
 **carvelsaputra/carvelsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
