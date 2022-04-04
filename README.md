@@ -13,7 +13,7 @@ Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusual
 <br><br>
 🔍 Currently Learning
 <br>
-In my leisure time, I enjoy scratching frontend stuff, and UI/UX Design guideline
+In my leisure time, I enjoy scratching frontend stuff.
 
 
 <!--
