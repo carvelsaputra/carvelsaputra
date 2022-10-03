@@ -9,7 +9,7 @@ A person who loves learn, and build wonderful things.
 <br>
 :briefcase: Career
 <br>
-Currently I'm working as Frontend Developer at [**UnusualDope**](https://unusualdope.com/)
+Currently I'm working as Fullstack Developer at [**Gradana Indonesia**](https://gradana.co.id/)
 <br><br>
 🔍 Currently Learning
 <br>
