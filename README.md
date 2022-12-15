@@ -4,7 +4,9 @@ Im Carvel Saputra Martaloho, you can call me Carvel.
 
 <br>💬 About me 
 <br>
-A person who loves learn, and build wonderful things. 
+I am a passionate software developer with a love for knowledge. My insatiable thirst for learning and my natural curiosity has made self-improvement a key part of my growth as a developer. 
+<br>
+I specialize in Vue.js, Express.js, Nest.JS, MongoDB, and MySQL.
 <br>
 <br>
 :briefcase: Career
@@ -13,7 +15,7 @@ Currently I'm working as Fullstack Developer at [**Gradana Indonesia**](https://
 <br><br>
 🔍 Currently Learning
 <br>
-In my leisure time, I enjoy scratching frontend stuff.
+In my leisure time, I enjoy researching new technologies and experimenting with new ideas to continually improve my skills and knowledge.
 
 
 <!--
