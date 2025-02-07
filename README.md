@@ -11,7 +11,7 @@ I specialize in Vue.js, Express.js, Nest.JS, MongoDB, and MySQL.
 <br>
 :briefcase: Career
 <br>
-Currently I'm working as Fullstack Developer at [**Gradana Indonesia**](https://gradana.co.id/)
+Currently I'm working as Fullstack Developer at [**BTN**](https://www.btn.co.id/)
 <br><br>
 🔍 Currently Learning
 <br>
